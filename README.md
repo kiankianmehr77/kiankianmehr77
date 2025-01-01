@@ -1,6 +1,8 @@
 ## Hi there 👋
+My name is Kian
+🌱 I’m a django developer
 🔭 I’m currently working on a social website
-🌱 I’m a back end developer
+
 
 
 <!--
