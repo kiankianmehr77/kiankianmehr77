@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on a social website
+🌱 I’m a back end developer
+
 
 <!--
 **kiankianmehr77/kiankianmehr77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
