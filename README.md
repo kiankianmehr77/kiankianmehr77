@@ -3,7 +3,7 @@ My name is Kian
 
 🌱 I’m a django developer
 
-🔭 I’m currently working on a social website
+🔭 I’m currently working on a online shop
 
 
 
